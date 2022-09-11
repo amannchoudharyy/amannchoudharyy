@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on making my portfolio website
-- 🌱 I’m currently learning DSA with JAVA
+- 🌱 I’m currently learning DSA with C++
 - 👯 I’m looking to collaborate on youtube
 - 🤔 I’m looking for help for getting an internship
 - 💬 Ask me about JAVASCRIPT JAVA PHP C++ HTML CSS ReactJS NodeJS
